@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=150%&section=header&text=GamGyu&fontSize=90&animation=fadeIn)
+![Wonsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=barry0105&show_icons=true&theme=radical)
 <br>
 <br>
 <hr>
@@ -15,4 +16,4 @@
 <a href="https://namu.wiki/w/C%23"><img src="https://img.shields.io/badge/C%23-black?style=flat&logo=C%20sharp&logoColor=239120"/></a>
   </h3>
 </div>
-![Wonsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=barry0105&show_icons=true&theme=radical)
+
