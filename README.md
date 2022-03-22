@@ -15,4 +15,4 @@
 <a href="https://namu.wiki/w/C%23"><img src="https://img.shields.io/badge/C%23-black?style=flat&logo=C%20sharp&logoColor=239120"/></a>
   </h3>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?barry0105=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Wonsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=barry0105&show_icons=true&theme=radical)
