@@ -15,8 +15,13 @@
 <a href="https://namu.wiki/w/C%23"><img src="https://img.shields.io/badge/C%23-black?style=flat&logo=C%20sharp&logoColor=239120"/></a>
   </h3>
   <hr>
+  <h4> 📊 Github Stat 📊 </h4>
   
-  ![Wonsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=barry0105&show_icons=true&theme=radical) [![Solved.ac
+  ![Wonsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=barry0105&show_icons=true&theme=radical) 
+  <hr>
+  <h4> 📚 BaekJoon 📚
+  
+  [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=barry0105)](https://solved.ac/barry0105)
   
 </div>
