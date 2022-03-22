@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=150%&section=header&text=GamGyu&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=150%&section=header&text=GamGyu&fontSize=90&animation=twinkling)
 <br>
 <br>
 <hr>
