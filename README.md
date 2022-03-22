@@ -20,7 +20,9 @@
   ![Wonsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=barry0105&show_icons=true&theme=radical) 
   <hr>
   <h4> 📚 BaekJoon 📚
-  
+  <br>
+  <br>
+    
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=barry0105)](https://solved.ac/barry0105)
   
