@@ -27,7 +27,21 @@
     
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=barry0105)](https://solved.ac/barry0105)
-  
+    
+ <br>
+ <hr>
+ <h4> 💳 Certificate 💳 
+ <br>
+ <br>
+   <li> 컴퓨터활용능력 2급
+   <li> 워드프로세서
+   <li> 네트워크관리사 2급
+   <li> 인터넷정보관리사 2급
+   <li> 정보처리기능사
+   <li> 정보기기운용기능사
+   <li> CCNA
+   <li> 운전면허증
+   <li> 리눅스마스터 2급 (1차 통과)
 </div>
 
 
