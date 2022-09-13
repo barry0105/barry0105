@@ -8,7 +8,7 @@
 <a href="https://namu.wiki/w/Python"><img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/></a>
 <a href="https://namu.wiki/w/HTML"><img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5&logoColor=E34F26"/> </a>
 <a href="https://namu.wiki/w/CSS"><img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=1572B6"/></a>
-<a href="https://namu.wiki/w/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=c%2B%2B&logoColor=00599C"/></a>
+<a href="https://namu.wiki/w/C"><img src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=00599C"/></a>
 <a href="https://namu.wiki/w/C%23"><img src="https://img.shields.io/badge/C%23-black?style=flat&logo=C%20sharp&logoColor=239120"/></a>
  <a href="https://namu.wiki/w/MySQL"><img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=4479A1"/></a>
   </h3>
